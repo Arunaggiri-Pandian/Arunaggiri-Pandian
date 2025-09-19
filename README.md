@@ -26,7 +26,6 @@ I enjoy pushing the boundaries of what's possible. My work has been recognized w
 
 Feel free to check out my work or connect with me:
 - [**LinkedIn**](https://www.linkedin.com/in/arunaggiri-pandian-karunanidhi/)
-- [**GitHub**](https://github.com/your-username)
 - [**Google Scholar**](https://scholar.google.com/citations?user=your_scholar_id)
 
 ---
