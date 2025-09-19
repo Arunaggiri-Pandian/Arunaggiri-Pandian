@@ -1,8 +1,8 @@
-# Hey there! 👋 I'm Arunaggiri Pandian Karunanidhi.
+# Hey there! 👋 I'm Arun.
 
 I'm a data scientist passionate about teaching computers to see the invisible. My main gig involves building sophisticated AI models to spot microscopic, multi-million dollar defects on silicon wafers. It's like finding a needle in a haystack, but the haystack is the size of a city and the needle is changing shape.
 
-When I'm not wrangling data, you can find me diving into the latest in Generative AI or mentoring the next wave of data scientists.
+When I'm not wrangling data, you can find me diving into the latest in Generative AI or just playing Pickleball.
 
 ---
 
