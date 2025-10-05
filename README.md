@@ -10,7 +10,7 @@ When I'm not wrangling data, you can find me diving into the latest in Generativ
 I enjoy pushing the boundaries of what's possible. My work has been recognized with:
 - **Six Micron Innovation Awards** for pioneering new techniques in unsupervised learning and semiconductor failure analysis each worth **$3000**
 - First Place in the **"Designing the Cities of Tomorrow" International Hackathon**, for innovative solutions in a 24-hour challenge.
-- The **2024 Inventor Cube** for developing something cool @ Micron.
+- The **2024 & 2025 Inventor Cube** for developing something cool @ Micron.
 
 ---
 
